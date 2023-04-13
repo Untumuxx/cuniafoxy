@@ -75,11 +75,257 @@
       "name_category": "Kylian_Mbappe",
       "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
 
+    },
+    {
+      "id": 4,
+      "name_category": "Erling_Haaland",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
     }
   ],
 
   "Data":
   [
+     {
+        "id": "700802392036756985",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/12/f4/8d/12f48d8bb4490bf65689af8c40d8270f.jpg"
+    },
+    {
+        "id": "700802392036756980",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/3e/60/b7/3e60b75afa2717942326b402d03029bf.jpg"
+    },
+    {
+        "id": "700802392036756977",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/79/17/dd/7917dd66d0fab6c1ec4d81065d0dd879.jpg"
+    },
+    {
+        "id": "700802392036756970",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/d6/7e/3a/d67e3acc549a3c4943be8bef42db4d60.jpg"
+    },
+    {
+        "id": "700802392036756962",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/6e/01/2f/6e012f17bdb127a11cce48ff8e3294df.jpg"
+    },
+    {
+        "id": "700802392036756953",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/06/98/66/06986656cbf23ae6a3d44e9366cb1df6.jpg"
+    },
+    {
+        "id": "700802392036756950",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/14/32/6e/14326ed95a5ef1f9628fa15ceb2993d4.jpg"
+    },
+    {
+        "id": "700802392036756948",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/ba/48/12/ba4812353c731a372ecdf2b3b8996b20.jpg"
+    },
+    {
+        "id": "700802392036756935",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/59/2c/0d/592c0d004d6c9ccb93e49b13d2e8a419.jpg"
+    },
+    {
+        "id": "700802392036756933",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/c3/cf/aa/c3cfaa7693c77dff434e0d82dd0701bf.jpg"
+    },
+    {
+        "id": "700802392036756930",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/02/46/15/0246156ba8608f1556430b560f8d70c9.jpg"
+    },
+    {
+        "id": "700802392036756927",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/53/71/ac/5371ac68611d9abd4554668df5e820d8.jpg"
+    },
+    {
+        "id": "700802392036756921",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/e4/a5/48/e4a5483c84731b7d829181976a3dc718.jpg"
+    },
+    {
+        "id": "700802392036756916",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/9c/17/61/9c17619917a0b90afcbf39ed38b333b2.jpg"
+    },
+    {
+        "id": "700802392036756915",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/6b/c3/0f/6bc30fb7e448027b22984443b2d5ea66.jpg"
+    },
+    {
+        "id": "700802392036756913",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/7d/8a/56/7d8a56ce1d76d32a0663bf42ff02cf14.jpg"
+    },
+    {
+        "id": "700802392036756911",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/aa/8c/ad/aa8caddc84c531fdada036d28dc611e5.jpg"
+    },
+    {
+        "id": "700802392036756908",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/44/33/fa/4433fa83d9e8ddb09b7db63c25119dcd.jpg"
+    },
+    {
+        "id": "700802392036756907",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/30/47/a1/3047a1bf1547deceebefec9cef5c248e.jpg"
+    },
+    {
+        "id": "700802392036756902",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/55/d2/c8/55d2c8384d4b11a1eb15d3800160d98c.jpg"
+    },
+    {
+        "id": "700802392036756899",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/fc/51/63/fc5163b782976c9d20af95ee2a9a3d92.jpg"
+    },
+    {
+        "id": "700802392036756895",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/74/a8/8e/74a88e5e45cc25b7a8e8260d69dbc6d3.jpg"
+    },
+    {
+        "id": "700802392036756891",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/72/06/7b/72067b921adcd996bed73ed601f68cdd.jpg"
+    },
+    {
+        "id": "700802392036756888",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/4b/5b/45/4b5b45af0e0bd74ef9ed70ee6a731ba9.jpg"
+    },
+    {
+        "id": "700802392036756883",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/5f/0d/ac/5f0daccd03e0858d5c81a2ab35a85a98.jpg"
+    },
+    {
+        "id": "71494712827913020",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/21/0b/41/210b4154fc7e3d491b721ce64ed6bed1.jpg"
+    },
+    {
+        "id": "324892560631608734",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/0b/36/7e/0b367e8ee88b102b1306980ef5fe2790.jpg"
+    },
+    {
+        "id": "490962796888615280",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/b4/ab/a3/b4aba328a23ff375814d694409a52fa7.jpg"
+    },
+    {
+        "id": "25614291622253579",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/d3/d4/ad/d3d4addea74991610e9234517a717489.jpg"
+    },
+    {
+        "id": "624241198372802422",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/5f/9d/3c/5f9d3c4669f8100318bc2499eebbd9c2.jpg"
+    },
+    {
+        "id": "181340322488907391",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/97/62/d8/9762d8b276057a5e46ea7bad0ffb7d1d.jpg"
+    },
+    {
+        "id": "625437467022452677",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/e1/3e/2c/e13e2c104fe7e94c4a2658fdfb8003e9.jpg"
+    },
+    {
+        "id": "13299761392881066",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/fe/3b/5a/fe3b5a0f10fd7b1a11098b5bfadf6e27.jpg"
+    },
+    {
+        "id": "20195898317844776",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/ec/8b/a1/ec8ba13c16686fbe6efccb603d82272e.jpg"
+    },
+    {
+        "id": "191614159136868567",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/8f/ed/85/8fed8570218c4b8966c9590e26ed8f8e.jpg"
+    },
+    {
+        "id": "448319337917933827",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/7e/1f/de/7e1fde6f1c353c77b3819d2670dd888e.jpg"
+    },
+    {
+        "id": "752593787744066681",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/63/60/2f/63602f8a045fd1425b300789fc471c19.jpg"
+    },
+    {
+        "id": "91409067431829429",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/a7/ba/1f/a7ba1f5d341d6daee6b5a575d04ae683.jpg"
+    },
+    {
+        "id": "315252042679183332",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/a5/d9/eb/a5d9eb66b0d41bb86a973a2b463aec83.jpg"
+    },
+    {
+        "id": "582231058095782911",
+        "name_category": "Erling_Haaland",
+        "title": "Erling Haaland",
+        "image": "https://i.pinimg.com/originals/03/77/ab/0377ab08a1f8359f7c69c0be911ca498.jpg"
+    },
     {
         "id": "411023903504452180",
         "name_category": "Kylian_Mbappe",
