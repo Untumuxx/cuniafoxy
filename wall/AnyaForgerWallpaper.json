@@ -53,7 +53,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
+      "name_category": "Anya Forger",
       "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
 
     },
@@ -74,41 +74,268 @@
   "Data":
   [
     {
-      "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+        "id": "624452304592530725",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/ff/07/1a/ff071a4fd2b54825a769c4da3232a115.jpg"
     },
     {
-      "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+        "id": "95349717104385978",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/05/8d/dd/058dddf293f182b527c64ab11c9a9b86.jpg"
     },
     {
-      "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+        "id": "1125968649411650",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/aa/ad/0a/aaad0a60f27ff7b1dc2cb037cb1ddb70.jpg"
     },
     {
-      "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-    }
-  ,
-    {
-      "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+        "id": "1151795673427616286",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/b0/01/d3/b001d3d82be8b5f93730b9f4b2388182.jpg"
     },
     {
-      "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+        "id": "8303580556247662",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/32/82/8a/32828a1554ad31ff44c5d4bd948cfdd7.jpg"
+    },
+    {
+        "id": "1125968650257603",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/84/ae/a8/84aea8fdc3a37c1ca15a417ad2af2084.jpg"
+    },
+    {
+        "id": "294634000635108879",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/8c/65/31/8c6531e419484d73e9d99a91e45b7e09.jpg"
+    },
+    {
+        "id": "10555380368308988",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/f3/7a/ee/f37aeee4075d7fbb514a4e48a5649052.jpg"
+    },
+    {
+        "id": "16255248648149509",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/c9/10/2f/c9102f32a6fde72974907bb488d192d9.jpg"
+    },
+    {
+        "id": "624452304592530725",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/ff/07/1a/ff071a4fd2b54825a769c4da3232a115.jpg"
+    },
+    {
+        "id": "20125529576122862",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/88/ae/84/88ae84bda0eb892482a7cae33c0bff85.jpg"
+    },
+    {
+        "id": "15692298694053732",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/ba/2f/44/ba2f44386f8fc127bf277c74a7d66ca0.jpg"
+    },
+    {
+        "id": "62839357293325589",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/dd/c3/7f/ddc37fa901b98153c4c3796c8fee3146.jpg"
+    },
+    {
+        "id": "5559199534562869",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/3d/1a/c6/3d1ac6fd18d720685852b30dddd58e7a.jpg"
+    },
+    {
+        "id": "704531935473658144",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/bb/c3/65/bbc36572d59b0856e2feb8ff392d804e.jpg"
+    },
+    {
+        "id": "16536723624376738",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/ae/8e/7f/ae8e7fbd6b538ee11b34188310037166.jpg"
+    },
+    {
+        "id": "499055202470785514",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/44/92/6f/44926f40c372db2b701bb6b3e0e98fc4.jpg"
+    },
+    {
+        "id": "5488830788180498",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/58/c3/e4/58c3e4bb10a95bec7182f4603737ec63.jpg"
+    },
+    {
+        "id": "1055599904083820",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/1a/9e/d0/1a9ed0bdfed943d781c58519f5498dc0.jpg"
+    },
+    {
+        "id": "14566398788636463",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/c3/33/53/c33353cdef4485c03c4d423ed8120b3e.jpg"
+    },
+    {
+        "id": "107312403612777880",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/c9/32/02/c93202e05cf72d508dd37b10d3726613.jpg"
+    },
+    {
+        "id": "4081455903698992",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/22/1f/a8/221fa88b6270fd97e68f9d8e9df0e764.jpg"
+    },
+    {
+        "id": "52284045666587246",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/eb/1f/33/eb1f331600135084020e13a5e1a8c671.jpg"
+    },
+    {
+        "id": "5277724556704125",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/99/4c/e4/994ce411656018f83b4f4e9d68f7b62b.jpg"
+    },
+    {
+        "id": "40602834133533728",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/dd/bb/f9/ddbbf9c67a1737479f51d6caba8d846e.jpg"
+    },
+    {
+        "id": "985231160774442",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/e1/81/cf/e181cfa3a04593e48420e0a614f4eb29.jpg"
+    },
+    {
+        "id": "624452304592530725",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/ff/07/1a/ff071a4fd2b54825a769c4da3232a115.jpg"
+    },
+    {
+        "id": "8725793020229966",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/a5/d3/13/a5d3139886f1215d4f3097bef8020f64.jpg"
+    },
+    {
+        "id": "1125968649253614",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/87/8b/3f/878b3f5e8e28a697942a97850079e53c.jpg"
+    },
+    {
+        "id": "25332816645005574",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/77/85/1f/77851f051ab5aad2fb68d552683d39c9.jpg"
+    },
+    {
+        "id": "53902526781873900",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/da/f3/ed/daf3ed60f9f0d2d657453ebb27202337.jpg"
+    },
+    {
+        "id": "80853755802311501",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/7d/67/5f/7d675faa69c5524ccfc0347a29f2ac6b.jpg"
+    },
+    {
+        "id": "17873729762817931",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/dc/54/34/dc5434f940daed64133f1cc92b6bc95a.jpg"
+    },
+    {
+        "id": "740560732489544027",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/ff/bd/90/ffbd90e9cc49f2069eefe951e030a041.jpg"
+    },
+    {
+        "id": "563018694799028",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/5c/f9/c7/5cf9c788ef0aec611ba32e683f1e3aaf.jpg"
+    },
+    {
+        "id": "8725793020229963",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/dd/5b/b0/dd5bb0922fae0d673e26453190643c25.jpg"
+    },
+    {
+        "id": "59954238813851896",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/ce/03/b8/ce03b8cb29f0386a792276e970a51dea.jpg"
+    },
+    {
+        "id": "295830269285831834",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/14/42/85/144285fae2d137af2d21ae18b2045446.jpg"
+    },
+    {
+        "id": "35817759528745819",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/5f/b0/50/5fb050e3d8ffa5d79a193170fbe036aa.jpg"
+    },
+    {
+        "id": "45106433758635541",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/c5/4a/04/c54a0452905a77d424a341d4a0bac88b.jpg"
+    },
+    {
+        "id": "596375175674854792",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/5d/19/c9/5d19c9acc485235665e6695eeacb238c.jpg"
+    },
+    {
+        "id": "208221182763784735",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/96/76/9d/96769d5201dd55a7361025af96727a82.jpg"
+    },
+    {
+        "id": "188166090673536534",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/77/31/ef/7731ef21d5fb1e4cb9cd8d5c8931141e.jpg"
+    },
+    {
+        "id": "129971139238374482",
+        "name_category": "Anya_Forger",
+        "title": "Anya Forger",
+        "image": "https://i.pinimg.com/originals/6e/b2/d2/6eb2d2ae338ed7bbd510b5f2ba220aba.jpg"
     }
   ]
 }
