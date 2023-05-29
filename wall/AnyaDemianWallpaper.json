@@ -14,7 +14,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "on_off_native_listview":"",
+      "on_off_native_listview":"1",
       "interval_intertitial": 3,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -74,30 +74,6 @@
   "Data":
   [
     {
-        "id": "599049187946948622",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/9e/fb/c8/9efbc885b3260a925b82459dbbe5eb98.jpg"
-    },
-    {
-        "id": "599049187946948618",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/be/37/2d/be372d3f434cd1e1f391ea7ffafeb0e2.jpg"
-    },
-    {
-        "id": "599049187946948613",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/cf/1b/25/cf1b257357812e65522164b438ae9bea.jpg"
-    },
-    {
-        "id": "599049187946948509",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/c0/1a/1e/c01a1ef9c07a802fc55a33ebeeabda38.jpg"
-    },
-    {
         "id": "599049187946948506",
         "name_category": "damian_anya",
         "title": "damian anya",
@@ -110,46 +86,10 @@
         "image": "https://i.pinimg.com/originals/57/1e/ea/571eeac59ab193a4e4200f64a70a054d.jpg"
     },
     {
-        "id": "599049187946783802",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/14/e8/ac/14e8acebe4677fc210dd98ac887e5031.jpg"
-    },
-    {
-        "id": "599049187946783800",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/98/a2/f6/98a2f657cca361222252911b4b70d7cc.jpg"
-    },
-    {
-        "id": "599049187946783792",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/a1/f8/9e/a1f89e6cc3aab352c364f7ab39730e5c.jpg"
-    },
-    {
-        "id": "599049187946783784",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/2c/58/3f/2c583fc4564391a3a71095910de2f168.jpg"
-    },
-    {
-        "id": "18507048460997893",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/21/7b/df/217bdf70341531031117bdaa7b41f63e.jpg"
-    },
-    {
         "id": "1060105199760163113",
         "name_category": "damian_anya",
         "title": "damian anya",
         "image": "https://i.pinimg.com/originals/0e/0a/f3/0e0af3da5385995810b17baae7c62edb.jpg"
-    },
-    {
-        "id": "1089448966086766022",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/7e/f3/64/7ef3643447fc7e64104f6772d1f76962.jpg"
     },
     {
         "id": "611645193160439556",
@@ -158,28 +98,10 @@
         "image": "https://i.pinimg.com/originals/16/e0/91/16e091b5879be7c910df592be7ee0720.jpg"
     },
     {
-        "id": "872783602766673944",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/17/eb/d2/17ebd273e23a895902048f5ac3c60a67.jpg"
-    },
-    {
         "id": "1125968649960324",
         "name_category": "damian_anya",
         "title": "damian anya",
         "image": "https://i.pinimg.com/originals/7e/1c/1d/7e1c1d71be75b8a9e2060a49c0cc014f.jpg"
-    },
-    {
-        "id": "1125968650257615",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/fc/79/4c/fc794c0f81dacc6d8db7d9bf4ace3117.jpg"
-    },
-    {
-        "id": "637822365995976131",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/d1/78/86/d178865c4bfc0c67fcd1169461578450.jpg"
     },
     {
         "id": "13651605112312638",
@@ -218,12 +140,6 @@
         "image": "https://i.pinimg.com/originals/b1/06/18/b10618f5b6e8f59d70f46e7a9714490d.jpg"
     },
     {
-        "id": "5981411998528886",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/a7/35/a2/a735a2a8d3fca6637591b163519601ac.jpg"
-    },
-    {
         "id": "36873290693884426",
         "name_category": "damian_anya",
         "title": "damian anya",
@@ -248,34 +164,10 @@
         "image": "https://i.pinimg.com/originals/0f/9e/ab/0f9eab1b4531030ef4c10265f3f04e1d.jpg"
     },
     {
-        "id": "552253973070270077",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/ae/57/77/ae5777fd18b39379ed92f3c472ff36f2.jpg"
-    },
-    {
-        "id": "552253973070270062",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/09/e4/7f/09e47f6cf87941409cd718d56af77af4.jpg"
-    },
-    {
-        "id": "552253973070270060",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/8e/fd/c6/8efdc638d8c973392e35a7dc9389b3cd.jpg"
-    },
-    {
         "id": "552253973070223005",
         "name_category": "damian_anya",
         "title": "damian anya",
         "image": "https://i.pinimg.com/originals/81/5e/1a/815e1a6069326246c3a2b9bd4ec62fdc.jpg"
-    },
-    {
-        "id": "552253973070222997",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/27/ee/c5/27eec5bf63908de31b879b7466fbdea5.jpg"
     },
     {
         "id": "552253973070057773",
@@ -290,34 +182,16 @@
         "image": "https://i.pinimg.com/originals/21/5e/8a/215e8a3f29f4fed3897894adda13e3cc.jpg"
     },
     {
-        "id": "552253973070024354",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/cc/3a/8e/cc3a8e62def56ddac9c214b283f465dd.jpg"
-    },
-    {
         "id": "552253973070024334",
         "name_category": "damian_anya",
         "title": "damian anya",
         "image": "https://i.pinimg.com/originals/99/ae/83/99ae8370e9b528ad5c219e695ed94820.gif"
     },
     {
-        "id": "552253973070024331",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/ba/10/41/ba1041197b79dfb6655bb4c738e1cbae.jpg"
-    },
-    {
         "id": "552253973070024330",
         "name_category": "damian_anya",
         "title": "damian anya",
         "image": "https://i.pinimg.com/originals/ec/04/74/ec047440ea3edb187e6c0b1e0f8cc5a9.jpg"
-    },
-    {
-        "id": "552253973070024329",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/14/db/ef/14dbefec83b0c69bfc49b096f8e78ccc.jpg"
     },
     {
         "id": "552253973070024327",
@@ -398,166 +272,10 @@
         "image": "https://i.pinimg.com/originals/92/6e/cb/926ecb9b9a4d308966d002811edee9f5.jpg"
     },
     {
-        "id": "591449363578462041",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/55/98/8e/55988ea4a9a809ebfa61486a3f287b11.jpg"
-    },
-    {
-        "id": "768145280211767351",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/b1/65/60/b16560b00f6219b95453294c40c13641.jpg"
-    },
-    {
-        "id": "595460382004999806",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/cd/da/17/cdda17bbd36d9aa5c8a25e24bd174f9f.jpg"
-    },
-    {
         "id": "595460382004999803",
         "name_category": "damian_anya",
         "title": "damian anya",
         "image": "https://i.pinimg.com/originals/a2/c1/eb/a2c1eb1a5a9add928baca2e4aa316c2d.jpg"
-    },
-    {
-        "id": "595460382004999802",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/47/a5/b9/47a5b98a15bd7f48415e1fef9007e87c.jpg"
-    },
-    {
-        "id": "595460382004999795",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/10/19/8a/10198a9aea97625ae5e44d2ceac114bf.jpg"
-    },
-    {
-        "id": "595460382004999782",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/d2/5a/30/d25a30ccadbe375273ad5bd29d0cc19c.jpg"
-    },
-    {
-        "id": "595460382004999121",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/e2/fb/fa/e2fbfaecb37ba586ae743ec594fe72dc.jpg"
-    },
-    {
-        "id": "595460382004999109",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/9e/9d/75/9e9d75b5c977355a7a48f37baff603fd.jpg"
-    },
-    {
-        "id": "595460382004999084",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/fa/64/fc/fa64fcfb3010312fa7b8b0bc9a299bc8.jpg"
-    },
-    {
-        "id": "595460382004999083",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/94/97/92/9497928e27285f5eee01ed3da6379168.jpg"
-    },
-    {
-        "id": "595460382004999080",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/5a/7b/a1/5a7ba1bae14270c25cb7de363c498ebf.jpg"
-    },
-    {
-        "id": "595460382004999077",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/81/48/96/8148969059c4d66b03bdfd38d5c92dc4.jpg"
-    },
-    {
-        "id": "595460382004999075",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/d7/8c/6e/d78c6ea5e86c84d7eb3c0246ebd4b43b.png"
-    },
-    {
-        "id": "595460382004999074",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/cc/39/ac/cc39ac0f0099756c7eea007c2d6d22cb.jpg"
-    },
-    {
-        "id": "595460382004999073",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/15/e7/77/15e777e8a8e948147e9064add03d8a99.jpg"
-    },
-    {
-        "id": "595460382004999071",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/d8/5b/d3/d85bd34768c7cd96fc3a48ec7160a7ae.jpg"
-    },
-    {
-        "id": "595460382004999069",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/f2/3e/71/f23e71a013ec4c752b6a045f6637277f.jpg"
-    },
-    {
-        "id": "595460382004999068",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/49/60/11/49601160dbee325881ee1401c72b0c55.jpg"
-    },
-    {
-        "id": "595460382004999050",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/fc/d8/5e/fcd85e4062df6bd250e23c78672e7fe8.jpg"
-    },
-    {
-        "id": "595460382004999044",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/87/77/9a/87779a707563dfe199096731544cc98e.jpg"
-    },
-    {
-        "id": "595460382004999040",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/55/30/0a/55300aa76a38f98abbe1937e0255a6b8.jpg"
-    },
-    {
-        "id": "595460382004999039",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/71/3d/2b/713d2b6adf759a290890d14dcefc13b5.jpg"
-    },
-    {
-        "id": "595460382004999037",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/5e/13/18/5e1318eb13dc0428e33eb94c8fc1a25b.png"
-    },
-    {
-        "id": "595460382004999035",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/05/66/52/056652962d7578a390e559e837807158.jpg"
-    },
-    {
-        "id": "595460382004999034",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/99/8b/95/998b95632cc9434130e9105a9c4518a4.jpg"
-    },
-    {
-        "id": "595460382004999032",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/f0/39/72/f03972026a4182c49c0057247d3c4d69.jpg"
     },
     {
         "id": "580542208237578980",
@@ -638,18 +356,6 @@
         "image": "https://i.pinimg.com/originals/46/56/f1/4656f115824611f7f5c373f38bbe1f32.jpg"
     },
     {
-        "id": "781374604100975620",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/3a/41/7c/3a417cdada6844b4e0a9a180a8e68d16.jpg"
-    },
-    {
-        "id": "781374604100975604",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/94/18/e5/9418e52105b1f72cde01d0c5790fb80a.jpg"
-    },
-    {
         "id": "781374604100975569",
         "name_category": "damian_anya",
         "title": "damian anya",
@@ -704,12 +410,6 @@
         "image": "https://i.pinimg.com/originals/be/a3/11/bea31142fb08f44ce50b0129e4bfeb4f.jpg"
     },
     {
-        "id": "781374604090843415",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/3a/03/e4/3a03e44b4b9e06cef97529d877808cb5.jpg"
-    },
-    {
         "id": "781374604090843403",
         "name_category": "damian_anya",
         "title": "damian anya",
@@ -732,60 +432,6 @@
         "name_category": "damian_anya",
         "title": "damian anya",
         "image": "https://i.pinimg.com/originals/e4/bf/2b/e4bf2bd10e188d788d7e0b6d014356ef.png"
-    },
-    {
-        "id": "781374604090843233",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/dc/c7/5b/dcc75bab1d250a22e9c41a0e73ff16a0.jpg"
-    },
-    {
-        "id": "781374604090843195",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/38/c4/65/38c46517f56283865e9e3bae75f6fd6e.jpg"
-    },
-    {
-        "id": "781374604090843193",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/80/b0/7f/80b07f0a104b13b70ba342e2cc703754.jpg"
-    },
-    {
-        "id": "781374604090843191",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/17/f4/35/17f4353f68095f348a5b54f4c9273d9b.jpg"
-    },
-    {
-        "id": "781374604090843176",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/e0/48/47/e04847929b117c330eaf0fcc126c196c.jpg"
-    },
-    {
-        "id": "385409680625151665",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/b4/55/dd/b455dd5f890b652b31dc9f72b853d635.jpg"
-    },
-    {
-        "id": "1071293830090629277",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/84/e9/1c/84e91c621367276fe7a2559583337a4a.jpg"
-    },
-    {
-        "id": "611645193160439556",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/16/e0/91/16e091b5879be7c910df592be7ee0720.jpg"
-    },
-    {
-        "id": "738449670165807581",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/89/5b/26/895b26559038d78d7b574e502732d07c.jpg"
     },
     {
         "id": "188025353184278950",
@@ -822,12 +468,6 @@
         "name_category": "damian_anya",
         "title": "damian anya",
         "image": "https://i.pinimg.com/originals/c5/e9/6a/c5e96a1e5e17ce52aea508251c61ecef.jpg"
-    },
-    {
-        "id": "39336196732702921",
-        "name_category": "damian_anya",
-        "title": "damian anya",
-        "image": "https://i.pinimg.com/originals/fd/c8/fa/fdc8faf7c49bfb204e3a03742d0b9d62--pony-birthday-parties-pony-party.jpg"
     }
   ]
 }
