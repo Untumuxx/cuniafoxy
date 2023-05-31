@@ -15,7 +15,7 @@
       "open_ads_alien":"",
       "open_ads_max":"1",
       "on_off_native_listview":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -25,7 +25,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"3"
     }
   ],
   "More":
@@ -53,7 +53,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
+      "name_category": "anya",
       "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
 
     },
@@ -73,42 +73,323 @@
 
   "Data":
   [
-    {
-      "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+     {
+        "id": "45880489946524752",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/9a/a2/54/9aa2544750b57a6998a6e7e5865c3529.jpg"
     },
     {
-      "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+        "id": "45880489946244274",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/76/04/0b/76040b46d3a3f8348c707aafafd13b09.jpg"
     },
     {
-      "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+        "id": "45880489946243851",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/a5/4a/20/a54a2067d4c2dccfb4ccc11c4291fbda.jpg"
     },
     {
-      "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+        "id": "45880489946243850",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/d2/90/26/d29026fad8db03779a5e0492cd476f8a.jpg"
+    },
+    {
+        "id": "45880489946243755",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/13/e5/87/13e587ae82a8920625b9c3342d9502ad.jpg"
+    },
+    {
+        "id": "45880489946243752",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/3b/5f/4f/3b5f4fdbe2af7ba4778eddd7a8b10007.png"
+    },
+    {
+        "id": "45880489946243751",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/97/8b/93/978b93f9d1b59502ec7981ee123a0fbe.jpg"
+    },
+    {
+        "id": "45880489946069721",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/b4/9e/81/b49e81a1c94c517b1557cb119a087bf5.jpg"
+    },
+    {
+        "id": "45880489946069177",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/b5/19/6b/b5196b9c73149b6cf48cf53111860833.jpg"
+    },
+    {
+        "id": "45880489946069141",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/88/10/77/881077188cc296ae6d8987f37e13de7a.jpg"
+    },
+    {
+        "id": "45880489946069136",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/2c/85/67/2c85673dcbd8372308446e1ad4bf8483.jpg"
+    },
+    {
+        "id": "45880489946053584",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/7e/68/36/7e683600c859c80169d18015fc96e9c0.jpg"
+    },
+    {
+        "id": "45880489946053578",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/e4/77/41/e47741dd5b6ad661e47895d586783b6b.jpg"
+    },
+    {
+        "id": "45880489946019966",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/ff/d4/83/ffd483bb4cc81e21d8cfc47f4f09282d.jpg"
+    },
+    {
+        "id": "45880489943226355",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/69/8f/d8/698fd8cb878e925e72219902cccde560.jpg"
+    },
+    {
+        "id": "45880489943226351",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/38/f2/04/38f204f8e70b30eec757a3eea789f8d6.jpg"
+    },
+    {
+        "id": "45880489943226347",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/04/00/b2/0400b2194e54a8e0c62f4dc2968c7bd5.png"
+    },
+    {
+        "id": "45880489943226343",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/d9/57/25/d95725da45e72bd34f6b70b50c48da08.jpg"
+    },
+    {
+        "id": "8303580556247662",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/32/82/8a/32828a1554ad31ff44c5d4bd948cfdd7.jpg"
+    },
+    {
+        "id": "50806302038906207",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/5b/28/20/5b2820bcdc239b3a5f57e356cedc44fb.jpg"
+    },
+    {
+        "id": "41728734041312782",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/68/6d/45/686d45bd78e5be8f23c302e18b021260.jpg"
+    },
+    {
+        "id": "2181499812944647",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/41/bc/0b/41bc0b8e084c6e7b6359bd1011743669.jpg"
+    },
+    {
+        "id": "31877109854231291",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/c3/3a/3d/c33a3d81ad307bbf59735d3662a923c4.jpg"
+    },
+    {
+        "id": "1125968649302062",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/17/dc/48/17dc4882f2cc7c0ef3f89fb10dcdd2fb.jpg"
+    },
+    {
+        "id": "1477812370457096",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/79/fb/22/79fb223460cd8cb89c027c87d62ed1e7.jpg"
+    },
+    {
+        "id": "645703665335828215",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/2b/9d/06/2b9d06e0597347e80efd53851ed3a016.jpg"
+    },
+    {
+        "id": "144959681747467102",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/b8/b6/56/b8b656988231436c358849e185bdb459.jpg"
+    },
+    {
+        "id": "737745982727459796",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/02/73/76/02737657372f0876b11373bfa03c1782.jpg"
+    },
+    {
+        "id": "81487074498558173",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/62/a9/38/62a938785d52363198fede33edf7e7fc.jpg"
+    },
+    {
+        "id": "124974958401811462",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/6d/06/79/6d0679dfb5f28a00b6a4ef6331634c92.jpg"
+    },
+    {
+        "id": "477592735497181064",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/50/8f/12/508f1215d1cfe5f8b003c57c3ee2bf11.jpg"
+    },
+    {
+        "id": "59250551340116430",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/e4/23/b6/e423b66a6e7a2030c2fe03283f428d89.jpg"
+    },
+    {
+        "id": "83316661851370073",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/24/67/6b/24676b90f675ac279d5b18e6307582b4.jpg"
+    },
+    {
+        "id": "184647653464473804",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/21/63/9e/21639e739dbc3e8fdf8b2e41ab78a9fc.jpg"
+    },
+    {
+        "id": "294704369380797222",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/68/19/ef/6819efddf41d1935dbcb58274a0d174e.jpg"
+    },
+    {
+        "id": "641129696950545046",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/66/62/4a/66624a7ded79264c1d38d03e8f8ffc16.jpg"
+    },
+    {
+        "id": "298574650311453132",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/33/6d/75/336d75e23cb1c97dc7d1744b23cb5710.jpg"
+    },
+    {
+        "id": "59250551344926024",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/c8/e8/40/c8e84032e1f005b34ec1ab46e326797f.jpg"
+    },
+    {
+        "id": "65372632083680001",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/01/53/db/0153db619a4dcb4dd58683d5405cdffd.jpg"
+    },
+    {
+        "id": "959477895589616266",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/33/5f/4e/335f4e4e53be7b5042efb299db22d626.jpg"
+    },
+    {
+        "id": "29203097576903303",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/61/83/65/61836561bf6725c44034ca78fa67f64f.jpg"
+    },
+    {
+        "id": "657877458084428754",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/b1/b8/19/b1b819636eac148df6c17181a17b4137.jpg"
+    },
+    {
+        "id": "174796029281116237",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/56/91/5f/56915f3eea9d913de1db2df59bcc5551.jpg"
+    },
+    {
+        "id": "104356916358653658",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/a6/2d/b5/a62db5d7015a44b7ffc107068a1f978b.jpg"
+    },
+    {
+        "id": "4503668370622228",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/d6/8b/bb/d68bbb4dab208f3f5ed475dbd5059c17.jpg"
+    },
+    {
+        "id": "379217231134589688",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/59/58/59/595859560f385b042e47faef14923ed5.jpg"
+    },
+    {
+        "id": "10203536648230821",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/13/31/93/13319375e7c6ea039e6d6eacb91bac2b.jpg"
+    },
+    {
+        "id": "774124927599197",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/ee/ea/a4/eeeaa411dd0fdd9cddae81ff1194a4bc.jpg"
+    },
+    {
+        "id": "63754150966311313",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/7c/53/64/7c536424a2e2058d7daff9671c22a688.jpg"
+    },
+    {
+        "id": "106679084916118208",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/5f/4c/93/5f4c9391fbaa96f5f12a42b2c8c50d68.jpg"
+    },
+    {
+        "id": "321796335886636825",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/26/4a/fd/264afd30837fb55e2cce8dd86bf9a94c.jpg"
+    },
+    {
+        "id": "370350769370747650",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/1f/d0/c2/1fd0c25911a6f7775ab664540dcef6c6.jpg"
+    },
+    {
+        "id": "213498838579323044",
+        "name_category": "anya_anime",
+        "title": "anya anime",
+        "image": "https://i.pinimg.com/originals/57/3d/a9/573da954f2994bcdf6429c7bd0032fda.jpg"
     }
-  ,
-    {
-      "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
-    },
-    {
-      "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
-    }
-  ]
+]
 }
