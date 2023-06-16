@@ -30,7 +30,146 @@
   ],
   "More":
   [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Donghua Girl",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
      {
+        "id": "367324913370767001",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/21/b8/05/21b805e69732f735df4d17a626fb6ff1.jpg"
+    },
+    {
+        "id": "367324913369643701",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/e0/8b/6b/e08b6b16cad523ce7251eed2e0c244cd.jpg"
+    },
+    {
+        "id": "367324913369643692",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/27/9c/44/279c444b8e669e31c97d9e15043ded33.jpg"
+    },
+    {
+        "id": "367324913369639734",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/21/15/29/211529b6f047708ce540294c4b0245df.jpg"
+    },
+    {
+        "id": "367324913369639732",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/af/05/80/af05801f39ebe0e8f264368a52f465cd.jpg"
+    },
+    {
+        "id": "367324913368758886",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/02/bd/e7/02bde7e371c4de2b9bbc91ac6747f856.jpg"
+    },
+    {
+        "id": "367324913368758871",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/e0/e9/66/e0e9666257460d3b8dce2304d3ecb742.png"
+    },
+    {
+        "id": "367324913368758870",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/12/9b/fe/129bfe928ff9889e271e91c4306ff8fc.png"
+    },
+    {
+        "id": "367324913368758869",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/b4/af/89/b4af8927f12f541f8c48b107dd10f3b5.png"
+    },
+    {
+        "id": "3377768464810484",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/e5/83/e9/e583e99bf028a4eb0612f611c6a07dc0.jpg"
+    },
+    {
+        "id": "279575089361806680",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/d8/fa/9f/d8fa9ff8249a6b18b26a1c031d77a540.jpg"
+    },
+    {
+        "id": "550705860697251628",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/e4/42/b7/e442b7c4ca315d538914f37158599c19.jpg"
+    },
+    {
+        "id": "684617580878545173",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/b8/f9/3b/b8f93b9f878790fa047dc3b5e85e0e0f.jpg"
+    },
+    {
+        "id": "216243219601105211",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/7d/a8/01/7da801531621a69e000b2cd58b385706.jpg"
+    },
+    {
+        "id": "26740191529209437",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/4c/16/0b/4c160bd3a58d41de64f815b2a4dc80da.jpg"
+    },
+    {
+        "id": "504121752053167969",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/0c/45/4b/0c454b809c10b4cb5c3f1cb31f31746f.jpg"
+    },
+    {
+        "id": "788763322259460266",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/86/c1/96/86c1966eac9aa4ba62152e306be07b48.jpg"
+    },
+    {
+        "id": "788763322259179748",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/7f/3c/a5/7f3ca5be3ace274cd0370608de431815.jpg"
+    },
+    {
         "id": "788763322259179711",
         "name_category": "kuromi",
         "title": "kuromi",
@@ -139,6 +278,84 @@
         "image": "https://i.pinimg.com/originals/55/54/78/5554788bb34f7e2b27efe5a5f85c48eb.jpg"
     },
     {
+        "id": "367324913370819964",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/2d/9f/b7/2d9fb79546a2a4e205a1c095f741bf1e.jpg"
+    },
+    {
+        "id": "367324913370767037",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/56/cb/db/56cbdb1483d1cf0af9a4b08e7176c8f3.jpg"
+    },
+    {
+        "id": "367324913370767035",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/b3/cf/61/b3cf6144bb8f4c936b8a26e0d9e45985.jpg"
+    },
+    {
+        "id": "367324913370767034",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/48/1a/b6/481ab6d33dc740c9b6d980b1d067aef1.jpg"
+    },
+    {
+        "id": "367324913370767033",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/b9/dd/8f/b9dd8f7d5e6caf4e86b57057ade53aac.jpg"
+    },
+    {
+        "id": "367324913370767032",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/34/9e/48/349e4855d08ced0a2120f66b9cb9d67e.jpg"
+    },
+    {
+        "id": "367324913370767031",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/29/05/8e/29058eb08b0a4566d5fa9a8d11b3ed23.jpg"
+    },
+    {
+        "id": "367324913370767030",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/74/a1/bd/74a1bd822cf4a8d5a49bf3503a4bb7f9.jpg"
+    },
+    {
+        "id": "367324913370767029",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/07/54/41/0754411b5fa70de5ecbd2ccc076f11bf.jpg"
+    },
+    {
+        "id": "367324913370767027",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/81/e0/f6/81e0f64323b00b92f0425877fd803196.jpg"
+    },
+    {
+        "id": "367324913370767025",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/d0/37/7d/d0377d98860d149d959e92aeb907c5e4.jpg"
+    },
+    {
+        "id": "367324913370767023",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/32/69/e3/3269e327f6cf00fc30e1daad469a00be.jpg"
+    },
+    {
+        "id": "367324913370767021",
+        "name_category": "kuromi",
+        "title": "kuromi",
+        "image": "https://i.pinimg.com/originals/c0/27/ce/c027ce4aa786b289b09482566fa3411c.jpg"
+    },
+    {
         "id": "788763322254641253",
         "name_category": "kuromi",
         "title": "kuromi",
@@ -245,223 +462,6 @@
         "name_category": "kuromi",
         "title": "kuromi",
         "image": "https://i.pinimg.com/originals/cd/2a/60/cd2a60fef65717889508ed9e07da8a64.jpg"
-    },
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
-
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Donghua Girl",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    }
-  ],
-
-  "Data":
-  [
-  {
-        "id": "367324913370819964",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/2d/9f/b7/2d9fb79546a2a4e205a1c095f741bf1e.jpg"
-    },
-    {
-        "id": "367324913370767037",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/56/cb/db/56cbdb1483d1cf0af9a4b08e7176c8f3.jpg"
-    },
-    {
-        "id": "367324913370767035",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/b3/cf/61/b3cf6144bb8f4c936b8a26e0d9e45985.jpg"
-    },
-    {
-        "id": "367324913370767034",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/48/1a/b6/481ab6d33dc740c9b6d980b1d067aef1.jpg"
-    },
-    {
-        "id": "367324913370767033",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/b9/dd/8f/b9dd8f7d5e6caf4e86b57057ade53aac.jpg"
-    },
-    {
-        "id": "367324913370767032",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/34/9e/48/349e4855d08ced0a2120f66b9cb9d67e.jpg"
-    },
-    {
-        "id": "367324913370767031",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/29/05/8e/29058eb08b0a4566d5fa9a8d11b3ed23.jpg"
-    },
-    {
-        "id": "367324913370767030",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/74/a1/bd/74a1bd822cf4a8d5a49bf3503a4bb7f9.jpg"
-    },
-    {
-        "id": "367324913370767029",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/07/54/41/0754411b5fa70de5ecbd2ccc076f11bf.jpg"
-    },
-    {
-        "id": "367324913370767027",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/81/e0/f6/81e0f64323b00b92f0425877fd803196.jpg"
-    },
-    {
-        "id": "367324913370767025",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/d0/37/7d/d0377d98860d149d959e92aeb907c5e4.jpg"
-    },
-    {
-        "id": "367324913370767023",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/32/69/e3/3269e327f6cf00fc30e1daad469a00be.jpg"
-    },
-    {
-        "id": "367324913370767021",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/c0/27/ce/c027ce4aa786b289b09482566fa3411c.jpg"
-    },
-    {
-        "id": "367324913370767001",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/21/b8/05/21b805e69732f735df4d17a626fb6ff1.jpg"
-    },
-    {
-        "id": "367324913369643701",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/e0/8b/6b/e08b6b16cad523ce7251eed2e0c244cd.jpg"
-    },
-    {
-        "id": "367324913369643692",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/27/9c/44/279c444b8e669e31c97d9e15043ded33.jpg"
-    },
-    {
-        "id": "367324913369639734",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/21/15/29/211529b6f047708ce540294c4b0245df.jpg"
-    },
-    {
-        "id": "367324913369639732",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/af/05/80/af05801f39ebe0e8f264368a52f465cd.jpg"
-    },
-    {
-        "id": "367324913368758886",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/02/bd/e7/02bde7e371c4de2b9bbc91ac6747f856.jpg"
-    },
-    {
-        "id": "367324913368758871",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/e0/e9/66/e0e9666257460d3b8dce2304d3ecb742.png"
-    },
-    {
-        "id": "367324913368758870",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/12/9b/fe/129bfe928ff9889e271e91c4306ff8fc.png"
-    },
-    {
-        "id": "367324913368758869",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/b4/af/89/b4af8927f12f541f8c48b107dd10f3b5.png"
-    },
-    {
-        "id": "3377768464810484",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/e5/83/e9/e583e99bf028a4eb0612f611c6a07dc0.jpg"
-    },
-    {
-        "id": "279575089361806680",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/d8/fa/9f/d8fa9ff8249a6b18b26a1c031d77a540.jpg"
-    },
-    {
-        "id": "550705860697251628",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/e4/42/b7/e442b7c4ca315d538914f37158599c19.jpg"
-    },
-    {
-        "id": "684617580878545173",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/b8/f9/3b/b8f93b9f878790fa047dc3b5e85e0e0f.jpg"
-    },
-    {
-        "id": "216243219601105211",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/7d/a8/01/7da801531621a69e000b2cd58b385706.jpg"
-    },
-    {
-        "id": "26740191529209437",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/4c/16/0b/4c160bd3a58d41de64f815b2a4dc80da.jpg"
-    },
-    {
-        "id": "504121752053167969",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/0c/45/4b/0c454b809c10b4cb5c3f1cb31f31746f.jpg"
-    },
-    {
-        "id": "788763322259460266",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/86/c1/96/86c1966eac9aa4ba62152e306be07b48.jpg"
-    },
-    {
-        "id": "788763322259179748",
-        "name_category": "kuromi",
-        "title": "kuromi",
-        "image": "https://i.pinimg.com/originals/7f/3c/a5/7f3ca5be3ace274cd0370608de431815.jpg"
     },
     {
         "id": "376754325089081291",
