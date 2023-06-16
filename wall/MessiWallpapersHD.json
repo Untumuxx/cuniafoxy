@@ -1,0 +1,425 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-7906256935637033/3746984682",
+      "main_ads_intertitial":"ca-app-pub-7906256935637033/3533918616",
+      "main_ads_natives":"ca-app-pub-7906256935637033/1105061782",
+      "main_ads_rewards":"ca-app-pub-7906256935637033/2339048564",
+      "backup_ads_natives":"157c7a354834e270",
+      "backup_ads_banner":"4c14ad1493d48663",
+      "backup_ads_intertitial":"471da192a31fa228",
+      "backup_ads_rewards":"8a3cc08382880db5",
+      "open_ads_admob":"ca-app-pub-7906256935637033/5554890373",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"3"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+       {
+        "id": "719309371728609872",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/e8/96/02/e896026478da3e2df9ee3ab020b7de2a.jpg"
+    },
+    {
+        "id": "719309371728609848",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/a2/d9/76/a2d976f8402672af506bd4ae5c4f51da.jpg"
+    },
+    {
+        "id": "719309371718834412",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/3d/bc/33/3dbc33d0d1ac336f89a39312f70382e8.jpg"
+    },
+    {
+        "id": "719309371718834390",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/f7/be/df/f7bedf817efc4105e86c750a490cae42.jpg"
+    },
+    {
+        "id": "719309371717801580",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/76/29/0e/76290e0e03970d631168cba607f5b4d0.jpg"
+    },
+    {
+        "id": "719309371717801578",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/a2/8b/1f/a28b1fd177d55794546d0c7663bf2fb5.jpg"
+    },
+    {
+        "id": "719309371717801577",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/c1/37/3e/c1373e02061a4b741c1fce399de42098.jpg"
+    },
+    {
+        "id": "719309371717801574",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/60/05/07/600507f17acbfea3b7aa3fbe02e63120.jpg"
+    },
+    {
+        "id": "719309371717801571",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/0b/8f/49/0b8f49b5ff1e3b4275b64ca66ffb6e56.jpg"
+    },
+    {
+        "id": "719309371717801569",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/d8/34/88/d83488ae91e8fa3e07a4f07c6144d7de.jpg"
+    },
+    {
+        "id": "719309371717801567",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/df/f1/80/dff1809ac9f3b2d3829169ce23d28ec8.png"
+    },
+    {
+        "id": "719309371717801562",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/77/41/fb/7741fb0b83d293456c36515f2e953f25.jpg"
+    },
+    {
+        "id": "719309371717801560",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/d4/4e/e9/d44ee9c070ae2f16077fdc1650aae96b.jpg"
+    },
+    {
+        "id": "719309371717801557",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/d8/99/97/d8999730a64f7978d35c7ab7b1336b0f.jpg"
+    },
+    {
+        "id": "719309371717801555",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/be/c4/de/bec4de6f546b419a75b5b9415e732941.jpg"
+    },
+    {
+        "id": "719309371717801551",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/0a/93/c9/0a93c968d4239484ba66c23dd089695e.jpg"
+    },
+    {
+        "id": "719309371717801548",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/2c/b6/90/2cb690e2d36b543486f7a44586c69f3d.jpg"
+    },
+    {
+        "id": "719309371717801541",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/6f/d2/87/6fd287b182c13546c80addcee4b436f4.jpg"
+    },
+    {
+        "id": "579416308331645458",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/f9/39/de/f939de06a43ef34be0d65bad679a8938.jpg"
+    },
+    {
+        "id": "300896818870933573",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/e9/46/93/e9469351b506555a68da8b04102d5ce0.jpg"
+    },
+    {
+        "id": "782289397800138726",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/0b/17/05/0b170580a3555426028e8ae7aa5cd62a.jpg"
+    },
+    {
+        "id": "584201382937322546",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/5f/65/13/5f65130629e7eaecb7f26b9dbcf7bae0.jpg"
+    },
+    {
+        "id": "592856738470886085",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/bb/d9/90/bbd990d27907279496821f21724ebf48.jpg"
+    },
+    {
+        "id": "582723639311043075",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/08/42/3e/08423ee9d91074fcab010985f33016ff.jpg"
+    },
+    {
+        "id": "604678687492029362",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/8d/31/8f/8d318f3bbc39fec6c27e5e049c6d0ecc.jpg"
+    },
+    {
+        "id": "940337597176988107",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/90/24/4a/90244a8836e6cfd665cc4e84db6e56b7.jpg"
+    },
+    {
+        "id": "651403533607520515",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/db/5c/0c/db5c0cf69c587bd77ac45ccbe0743c27.jpg"
+    },
+    {
+        "id": "938226534844867967",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/26/d4/0c/26d40c38815a6d7ce2a26d34586d8918.jpg"
+    },
+    {
+        "id": "1087549009990621724",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/da/19/01/da19013441bbe6f47f95919af05ff497.jpg"
+    },
+    {
+        "id": "54184001744218975",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/90/8c/ab/908cabc92d7a6039421ef4843178616e--walking-dead-memes-walking-dead-zombies.jpg"
+    },
+    {
+        "id": "3448137205002207",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/db/5c/0c/db5c0cf69c587bd77ac45ccbe0743c27.jpg"
+    },
+    {
+        "id": "370843350574751703",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/49/a0/91/49a091b0d756edf6052f4d5bb58b6d01.jpg"
+    },
+    {
+        "id": "590323463661187693",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/4a/4c/7a/4a4c7a4e4c91520ed4f703944684ff78.jpg"
+    },
+    {
+        "id": "569846159113214997",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/03/57/a6/0357a6467e57e73239c41999f261517b.jpg"
+    },
+    {
+        "id": "113645590588171311",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/44/fe/1e/44fe1ee7e368a775ddd2ca82dcaf6158.jpg"
+    },
+    {
+        "id": "12384967717832979",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/fa/9f/db/fa9fdb2b8a9781ace0dca2325d540362.jpg"
+    },
+    {
+        "id": "795800196674002495",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/ee/67/c0/ee67c010f8cf181116bc2c58192e725d.jpg"
+    },
+    {
+        "id": "651403533607520515",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/db/5c/0c/db5c0cf69c587bd77ac45ccbe0743c27.jpg"
+    },
+    {
+        "id": "300896818870933573",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/e9/46/93/e9469351b506555a68da8b04102d5ce0.jpg"
+    },
+    {
+        "id": "47921183527712190",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/e9/b0/42/e9b04237df8f65b1fc0783cb7814c07e.jpg"
+    },
+    {
+        "id": "25473554134991942",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/4d/70/b5/4d70b54826137f784389ceb4ff94978a.jpg"
+    },
+    {
+        "id": "8373949300189285",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/76/ae/6b/76ae6b390d2331012b00947176fb6628.jpg"
+    },
+    {
+        "id": "411586853460870666",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/58/12/9f/58129f0e92834cb36d52ddfaf910548c.jpg"
+    },
+    {
+        "id": "626070785721628709",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/a1/e6/9b/a1e69b8ff233c1b730be7de237c14043.jpg"
+    },
+    {
+        "id": "647603621438801305",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/3c/93/60/3c93608fb4acf4de2d871d910480d1b7.jpg"
+    },
+    {
+        "id": "42573158970296817",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/c8/fb/bd/c8fbbdbce6aec40b1580aad1d84e2e06.jpg"
+    },
+    {
+        "id": "76068681199229488",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/5a/ac/39/5aac3931463ab122f544c40d3e2c2f9f.jpg"
+    },
+    {
+        "id": "3448137205002207",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/db/5c/0c/db5c0cf69c587bd77ac45ccbe0743c27.jpg"
+    },
+    {
+        "id": "586453182743703179",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/21/7c/1b/217c1be260a55137ff707e7ef6b43f21.jpg"
+    },
+    {
+        "id": "585397651577731533",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/23/af/2f/23af2f8a602c5df91ca7e12863710f39.jpg"
+    },
+    {
+        "id": "341147740529096917",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/ba/c0/40/bac0404f6762630674662b8092d13bb6.jpg"
+    },
+    {
+        "id": "740208888775578657",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/a5/39/0d/a5390df2680df1c43a475b060cc613de.jpg"
+    },
+    {
+        "id": "193443746484072994",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/49/fe/6d/49fe6d37bb2dfea0e2d42d1301dbe30b.jpg"
+    },
+    {
+        "id": "345580971412528797",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/9f/6d/a1/9f6da1976dd6bb3d114903920121b1be.jpg"
+    },
+    {
+        "id": "93801604731890749",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/57/d4/bd/57d4bdd5a0bcc44dfa3a6644bcf1c7e5.jpg"
+    },
+    {
+        "id": "690739661589388091",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/fd/8c/80/fd8c8066714bb573c02059d9f730a5b3.jpg"
+    },
+    {
+        "id": "222365300344709789",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/86/74/23/867423c3e4f3e2ad1920c9d20f12ebad.jpg"
+    },
+    {
+        "id": "1073404892410829298",
+        "name_category": "messsi_4k",
+        "title": "messsi 4k",
+        "image": "https://i.pinimg.com/originals/9d/e4/8e/9de48e97b6e415438d10ad7e005f018c.jpg"
+    }
+  ]
+}
