@@ -14,7 +14,7 @@
       "open_ads_admob":"ca-app-pub-7906256935637033/6425671228",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "on_off_native_listview":"",
+      "on_off_native_listview":"1",
       "interval_intertitial": 3,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
